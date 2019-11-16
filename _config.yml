@@ -1,13 +1,13 @@
 # (string) Title of your wiki
-title: 
+title: MFMR OB Guide
 # (string) Description of your wiki
-description: 
+description: Montana Family Medicine Residency's Guide to the OB Rotation
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
 show_wiki_pages_limit: 10
 # (boolean) Enable/disable blog feature
-blog_feature: true
+blog_feature: false
 # (boolean) Enable/disable wiki posts list in sidebar (needs blog_feature enabled)
 show_wiki_posts: true
 # (integer) Maximum number of wiki posts to shown in sidebar
@@ -17,15 +17,15 @@ paginate: 5
 paginate_path: "/blog/page:num"
 permalink: /blog/posts/:year/:month/:day/:title:output_ext
 # (boolean) Enable/disable download buttons in sidebar
-show_downloads: true
+show_downloads: false
 # (string) specify git-wiki host. (github or gitlab)
 service: "github"
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: 
+logo_url: "https://is4-ssl.mzstatic.com/image/thumb/Purple1/v4/20/1a/5a/201a5acd-f348-fc2b-ac01-5eb59de8c8a6/source/512x512bb.jpg"
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
-google_analytics: 
+google_analytics:
 # (string) folder where wiki pages are stored, it's needed for tool buttons
 wiki_folder: wiki
 # (boolean) if you're using github wiki as submodule then this config
@@ -43,7 +43,7 @@ use_prose_io: true
 search_engine : "js"
 # Setting google custom search engine for google
 # cse search bar (https://cse.google.it/cse/)
-google_cse_token: 
+google_cse_token:
 
 #
 # Jekyll configurations
@@ -62,7 +62,7 @@ kramdown:
   syntax_highlighter: rouge
 
 defaults:
- - 
+ -
     scope:
       path: "wiki"
     values:
@@ -107,26 +107,26 @@ plugins:
 # Check wiki documentation to learn how they work
 #
 
-inc_before_toc : 
-inc_after_toc : 
-inc_before_content : 
-inc_after_content : 
-inc_before_footer : 
-inc_after_footer : 
-inc_before_head : 
-inc_after_head : 
-inc_before_meta : 
-inc_after_meta : 
-inc_before_scripts : 
-inc_after_scripts : 
-inc_before_styles : 
-inc_after_styles : 
-inc_before_header : 
-inc_after_header : 
-inc_before_tail : 
-inc_after_tail : 
-inc_before_tools : 
-inc_after_tools : 
+inc_before_toc :
+inc_after_toc :
+inc_before_content :
+inc_after_content :
+inc_before_footer :
+inc_after_footer :
+inc_before_head :
+inc_after_head :
+inc_before_meta :
+inc_after_meta :
+inc_before_scripts :
+inc_after_scripts :
+inc_before_styles :
+inc_after_styles :
+inc_before_header : "sidebar.html"
+inc_after_header : "sidebar.html"
+inc_before_tail :
+inc_after_tail :
+inc_before_tools :
+inc_after_tools :
 
 inc_before_page_list :
 inc_after_page_list :
