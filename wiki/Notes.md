@@ -40,6 +40,8 @@ PMH, PSH, Meds, Allergies, Social history (is FOB involved, +/- tbc/etoh/drug us
 5.	*Any pertinent labs/history/etc*
 6.	*Anticipate NSVD*
 
+<a href="#top">Back to top</a>
+
 ## Sample Labor Note (Q2H)
 S:  Pt reports…, pain control, interventions.  Nurse reports…
 
@@ -62,11 +64,14 @@ A/P:  (27y F G2P1 @ EGA, with hx of hypothyroid, DM, etc in latent/active labor)
 6. Induction/augmentation: Pitocin or cytotec? What time/dose?
 7. Anticipated plan (SVD, etc)
 
+<a href="#top">Back to top</a>
 
 ## Sample Delivery Note #1
  NSVD of a live male, 3000 gm and Apgars 9/9. Delivered LOA over intact perineum with/out epidural anesthesia @ 13:00.  No nuchal cord, light meconium.  Body delivered without difficulty. Infant was vigorous with spontaneous respiratory efforts. Mouth and nose were suctioned. Cord clamped and cut after 1 minute.  Infant placed on maternal abdomen. Placenta delivered spontaneously, appears intact with 3 vessel cord. Fundus firm, minimal bleeding. Perineum and vagina inspected – small 2nd degree perineal laceration repaired under local anesthesia with 2-0 and 3-0 chromic suture in the usual fashion. EBL 300cc (this is average for SVD). Hemostasis achieved. Pt tolerated procedure well, mother and newborn are recovering in LDR.
+
 Dr. ____was present for entire delivery
 
+<a href="#top">Back to top</a>
 
 ## Sample Delivery Note #2
 
@@ -107,6 +112,8 @@ Dr. ____was present for entire delivery
       - EBL
   - Attending ____ was present for delivery
 
+<a href="#top">Back to top</a>
+
 ## Sample Postpartum Progress Note
 
 **S:** Lochia, pain and pain control, ambulation, po intake, breastfeeding? (if so, is baby latching on, how do they feel it is going, encourage and congratulate them if they have chosen to breastfeed), stools, urination and dysuria, foley, SOB, leg pain, swelling, social support?
@@ -125,6 +132,8 @@ Dr. ____was present for entire delivery
 8.	Follow up appts for 4-6 weeks
 9.	Postpartum instructions
 
+<a href="#top">Back to top</a>
+
 ## Sample Newborn progress note
 **S:**  Include pertinent information on mother including dates, size, G/P, blood type, immune status, any pregnancy complications as part of subjective portion, include information obtained by RN/Mom (sleeping, feeding, passing urine/meconium/normal stool)
 
@@ -137,3 +146,5 @@ Dr. ____was present for entire delivery
 4. Hearing test passed?  If not, need to reschedule
 5. Newborn screen done before discharge?
 6. Discharge plan including f/u
+
+<a href="#top">Back to top</a>
