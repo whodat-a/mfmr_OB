@@ -1,6 +1,4 @@
 ---
-weight: 3
-bookFlatSection: true
 title: "Ground Rules"
 ---
 ## Ground Rules: Who we are involved in, when

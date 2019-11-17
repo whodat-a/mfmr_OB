@@ -1,6 +1,4 @@
 ---
-weight: 5
-bookFlatSection: true
 title: "Daily Flow - Days"
 ---
 
@@ -30,5 +28,5 @@ In order of priority (note:  prioritization may be changed based on acuity – i
   - St. V’s MFM Outpatient Clinic – It is encouraged to go watch/help with some US’s, walk over to MFM office across skybridge to Yellowstone Building.  They are super nice and it helps develop ultrasound skills!
   - **eCW:**
      - Check for upcoming deliveries; update the OB list with these pts. List of OB pt’s can be found on eCW by going to Report --> OB --> Active pregnancies. Check the box by All Providers and hit update. This info can then be used to update the OB Anticipations document in the OB folder as well as our lists. READ the chart – for ex: NPP’s are not PCP for OB
-     - Clean up the active pregnancy tab by looking for pt’s who have transferred care and are at least 2-3 weeks past their due date (or if you happen to know they delivered), send a TE encounter to Mary Hunt to close pregnancy. 
+     - Clean up the active pregnancy tab by looking for pt’s who have transferred care and are at least 2-3 weeks past their due date (or if you happen to know they delivered), send a TE encounter to Mary Hunt to close pregnancy.
      - Ensure upcoming deliveries have had the appropriate lab work done: GBS, BTL ppwk, etc.  Fax OB summary to L&D in anticipation.

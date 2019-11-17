@@ -1,14 +1,12 @@
 ---
-weight: 6
-bookFlatSection: true
 title: "Triages"
 ---
 
 ## Triages
-- Do H&P (see below), examine patient, develop plan. 
-- Call attending w/in hr, earlier if emergent 
+- Do H&P (see below), examine patient, develop plan.
+- Call attending w/in hr, earlier if emergent
 - Brief summary note also in eCW, under progress notes
-- Arrange F/U for pts you discharge 
+- Arrange F/U for pts you discharge
 - Send TE to providers that their pts were seen & with any things to do
 - If the patient will be admitted to L&D for likely delivery:
 - Admit H&P, documentation, orders
@@ -16,7 +14,7 @@ title: "Triages"
 - Call continuity provider and let them know their patient has been admitted
   - if continuity provider is unavailable, may contact another provider that the patient has seen (Look at eCW notes and ASK the patient which provider(s) they want)
   - OB resident manages labor, continuity resident comes in for delivery
-  - Attending must be present for any procedures (U/S, AROM, IUPC placement, etc…)  as well as delivery 
+  - Attending must be present for any procedures (U/S, AROM, IUPC placement, etc…)  as well as delivery
 
 ## Triage Tips:
 ### Term triage, r/o labor
@@ -32,7 +30,7 @@ title: "Triages"
 5. If actually in PTL, obtain MFM consult
 
 ### R/o ROM
-1. Sterile spec exam (minimize SVE unless in labor), check for pooling of fluid, nitrazine, ferning, or fluid expressed from the cervix with valsalva? Collect Wet Mount? 
+1. Sterile spec exam (minimize SVE unless in labor), check for pooling of fluid, nitrazine, ferning, or fluid expressed from the cervix with valsalva? Collect Wet Mount?
 2. Amnisure
 
 ### Vaginal bleeding

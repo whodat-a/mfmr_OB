@@ -1,7 +1,5 @@
 ---
-weight: 9
-bookFlatSection: true
-title: "Discharge"
+title: "Discharges"
 ---
 
 ## Discharge:
